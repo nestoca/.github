@@ -30,7 +30,7 @@ We're open to contributions! Check out our issues tab on each repo to see where 
 Looking to join the nesto team? We're always on the lookout for talented individuals who share our passion for tech and finance. Visit our [careers page](https://nesto.ca/careers) for current openings.
 
 ### Contact Us
-Got questions or just want to say hi? Drop us a line at [hello@nesto.ca](mailto:support@nesto.ca) or connect with us on [LinkedIn](https://www.linkedin.com/company/nesto-ca).
+Got questions or just want to say hi? Drop us a line at [support@nesto.ca](mailto:support@nesto.ca) or connect with us on [LinkedIn](https://www.linkedin.com/company/nesto-ca).
 
 ---
 
