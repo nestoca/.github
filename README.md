@@ -16,7 +16,11 @@ To make mortgage shopping as easy as online shopping. No more paperwork nightmar
 
 Automated tool to fetch Slack incident channel history and create comprehensive summaries on Confluence wiki pages. Perfect for documenting incident response actions, team contributions, and maintaining security playbooks.
 
-[View Documentation](./INCIDENT_SUMMARIZER_README.md)
+**Quick Links**:
+- [Project Summary](./PROJECT_SUMMARY.md) - Complete overview
+- [Quick Start](./QUICK_REFERENCE.md) - Commands and troubleshooting
+- [Setup Guide](./SETUP_GUIDE.md) - First-time configuration
+- [Documentation Index](./DOCUMENTATION_INDEX.md) - Navigate all docs
 
 ## How We Work 🛠️
 
