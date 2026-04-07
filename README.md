@@ -10,6 +10,14 @@ We are nesto.ca, the Digital Mortgage Lender that's making home financing a bree
 
 To make mortgage shopping as easy as online shopping. No more paperwork nightmares or confusing jargon—just simple, transparent, and fast mortgage solutions.
 
+## Tools
+
+### Incident Channel Summarizer
+
+Automated tool to fetch Slack incident channel history and create comprehensive summaries on Confluence wiki pages. Perfect for documenting incident response actions, team contributions, and maintaining security playbooks.
+
+[View Documentation](./INCIDENT_SUMMARIZER_README.md)
+
 ## How We Work 🛠️
 
 ### Transparent Process
