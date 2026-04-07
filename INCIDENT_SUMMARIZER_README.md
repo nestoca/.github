@@ -59,10 +59,30 @@ export CONFLUENCE_API_TOKEN="your-api-token"
 export CONFLUENCE_URL="https://nestoca.atlassian.net"  # Optional, this is the default
 ```
 
-### 3. Run the Script
+### 3. Test Your Configuration (Recommended)
+
+Before running the full summarizer, test your credentials:
+
+```bash
+python3 test_config.py
+```
+
+This will verify:
+- Slack token is valid and has correct permissions
+- Confluence credentials work
+- You can access the target page
+- All dependencies are installed
+
+### 4. Run the Script
 
 ```bash
 python incident_channel_summarizer.py
+```
+
+Or use the shell wrapper:
+
+```bash
+./run_summarizer.sh
 ```
 
 ## How It Works
