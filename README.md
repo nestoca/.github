@@ -21,6 +21,15 @@ We're always learning, growing, and improving. We embrace new technologies, meth
 ### Collaboration
 Teamwork makes the dream work. We collaborate closely across all departments to ensure that every part of nesto.ca is working seamlessly together.
 
+## Utility Scripts 🔧
+
+### GCP Security Audit
+
+We maintain scripts to help audit our GCP infrastructure for security best practices. Check out the `scripts/` directory for tools including:
+
+- **GCP Gemini API Audit**: Identify projects with the Gemini API enabled and check for unrestricted API keys
+- See [scripts/README.md](scripts/README.md) for detailed documentation
+
 ## Join Us! 🤝
 
 ### Want to Contribute?
