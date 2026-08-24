@@ -1,6 +1,6 @@
 # Welcome to nesto Cloud
 
-Hello, internet wanderer! Welcome to nesto Cloud’s public GitHub org. We build the technology that helps Canadian financial institutions originate, underwrite, and service loans end to end.
+Hello, internet wanderer! Welcome to nesto Cloud's public GitHub org. We build the technology that helps Canadian financial institutions originate, underwrite, and service loans end-to-end.
 
 Learn more at [nestocloud.ca](https://nestocloud.ca).
 
@@ -23,7 +23,7 @@ From application to servicing, our [residential](https://nestocloud.ca/residenti
 
 We help lenders reduce origination cost and underwriting time, adjudicate and issue commitments faster, and deliver a digital-first borrower experience — with Canadian compliance and security at the core.
 
-nesto Cloud is SOC 1 & 2 Type II compliant, holds a DBRS Morningstar **MOR RS1** residential mortgage servicer ranking, and is an approved administrator with CMHC, Sagen, and Canada Guaranty.
+nesto Cloud is SOC 1 Type II and SOC 2 Type II compliant, holds a DBRS Morningstar **MOR RS1** residential mortgage servicer ranking, and is an approved administrator with CMHC, Sagen, and Canada Guaranty.
 
 ## Join Us
 
