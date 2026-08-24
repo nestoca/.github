@@ -1,37 +1,40 @@
-# Welcome to nesto.ca 🚀
+# Welcome to nesto Cloud
 
-Hello, internet wanderer! 👋 Welcome to nesto.ca's public repository, where we revolutionize the world of digital mortgage lending with a sprinkle of code and a lot of passion. 
+Hello, internet wanderer! Welcome to nesto Cloud's public GitHub org. We build the technology that helps Canadian financial institutions originate, underwrite, and service loans end-to-end.
 
-## Who Are We? 🤔
+Learn more at [nestocloud.ca](https://nestocloud.ca).
 
-We are nesto.ca, the Digital Mortgage Lender that's making home financing a breeze. Our team of expert developers, financial gurus, and tech enthusiasts are here to simplify the process and help you get the best rates with ease.
+## Who We Are
 
-## Our Mission 🏡
+[nesto Cloud](https://nestocloud.ca) is Canada’s most advanced cloud lending platform. We help financial institutions, credit unions, and commercial real estate lenders grow and operate more efficiently with technology shaped by people who actually understand lending.
 
-To make mortgage shopping as easy as online shopping. No more paperwork nightmares or confusing jargon—just simple, transparent, and fast mortgage solutions.
+We are part of [nesto Group](https://nestogroup.ca), Canada’s leading provider of mortgage technology and financing solutions, with over $80 billion in residential and commercial mortgages under administration.
 
-## How We Work 🛠️
+## What We Build
 
-### Transparent Process
-We believe in clarity. That's why our code is clean, our processes are straightforward, and our customer interactions are always transparent.
+From application to servicing, our [residential](https://nestocloud.ca/residential/) and [commercial](https://nestocloud.ca/commercial/) solutions digitize and automate the full loan lifecycle.
 
-### Continuous Improvement
-We're always learning, growing, and improving. We embrace new technologies, methodologies, and ideas to ensure we're delivering the best possible service.
+- **End-to-end integrated platform** for lenders
+- **AI-native mortgage intelligence**, including policy-aligned underwriting
+- **Modern, API-first architecture**
+- **SaaS or fully outsourced** mortgage operations, run by our teams
 
-### Collaboration
-Teamwork makes the dream work. We collaborate closely across all departments to ensure that every part of nesto.ca is working seamlessly together.
+## Why It Matters
 
-## Join Us! 🤝
+We help lenders reduce origination cost and underwriting time, adjudicate and issue commitments faster, and deliver a digital-first borrower experience — with Canadian compliance and security at the core.
 
-### Want to Contribute?
-We're open to contributions! Check out our issues tab on each repo to see where you can help.
+nesto Cloud is SOC 1 Type II and SOC 2 Type II compliant, holds a DBRS Morningstar **MOR RS1** residential mortgage servicer ranking, and is an approved administrator with CMHC, Sagen, and Canada Guaranty.
+
+## Join Us
 
 ### Careers
-Looking to join the nesto team? We're always on the lookout for talented individuals who share our passion for tech and finance. Visit our [careers page](https://nesto.ca/careers) for current openings.
 
-### Contact Us
-Got questions or just want to say hi? Drop us a line at [support@nesto.ca](mailto:support@nesto.ca) or connect with us on [LinkedIn](https://www.linkedin.com/company/nesto-ca).
+Looking to join the team? Explore openings at [nesto Group careers](https://nestogroup.ca/careers/).
+
+### Contact
+
+Questions or a demo request? Reach us at [info@nestocloud.ca](mailto:info@nestocloud.ca), book time at [Get in touch](https://nestocloud.ca/get-in-touch/), or connect on [LinkedIn](https://www.linkedin.com/company/nesto-cloud).
 
 ---
 
-Thank you for stopping by! Stay awesome, and happy coding! 💙
+Thank you for stopping by. Happy coding.
